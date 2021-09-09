@@ -1,4 +1,6 @@
-W,A,C,B,D
-X,D,C,A,B
-Y,A,D,C,B
-Z,D,A,C,B
+m1,w1,w2,w3,w4,w5,w6
+m2,w2,w1,w6,w4,w5,w3
+m3,w2,w3,w6,w5,w1,w4
+m4,w6,w3,w2,w1,w5,w4
+m5,w5,w2,w1,w4,w3,w6
+m6,w3,w5,w6,w1,w4,w2
